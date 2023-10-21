@@ -48,4 +48,4 @@ _**Unfinished**_
 - Bug testings haven't been done.
 
 ## Developer
-Albert E (vradnisntlong@gmail.com)
+Albert E (albertenrico.5@gmail.com)
