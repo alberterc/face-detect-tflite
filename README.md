@@ -46,6 +46,3 @@ _**Unfinished**_
 - Face detection accuracy is still unknown.
 - Expect unnecessary codes to be found throughout the codes.
 - Bug testings haven't been done.
-
-## Developer
-Albert E (albertenrico.5@gmail.com)
